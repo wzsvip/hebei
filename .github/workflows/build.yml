@@ -39,8 +39,8 @@ jobs:
 
       - name: 提交更改
         run: |
-          git config --global user.name "ssili126"
-          git config --global user.email "ssili@126.com"
+          git config --global user.name "wzsvip"
+          git config --global user.email "wuzhij@mail.com"
           git add windows/IPTV-hebei.exe
           git add windows/windows_test.exe
           git commit -m "Update Windows executable"
